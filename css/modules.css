@@ -304,6 +304,7 @@ svg.img-flex {
 .icon-link:focus,
 .icon-link:hover {
   text-decoration: none;
+  color: #000;
 }
 
 [hidden], .hidden {
